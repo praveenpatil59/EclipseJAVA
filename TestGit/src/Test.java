@@ -2,9 +2,9 @@
 public class Test {
 
 	public static void main(String[] args) {
-		if (true||false)
-		{
-			System.out.println("newly added for merge conflict to get");
+		for (int i = 0; i < 5; i++) {
+			System.out.println("inside for loop");
+			
 		}
 		if(true)
 		{
