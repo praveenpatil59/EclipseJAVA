@@ -8,7 +8,7 @@ public class Test {
 		{
 			System.out.println("inside if from master branch");
 		}
-		
+		System.out.println("added code in master after sub branch chekcout");
 
 }
 	
