@@ -15,5 +15,10 @@ public class Test {
 		{
 			System.out.println("added this in sub branch");
 		}
+		int c=10;
+		while(c==10)
+		{
+			
+		}
 	}
 }
