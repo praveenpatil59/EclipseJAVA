@@ -6,9 +6,11 @@ public class Test {
 		
 		if(true)
 		{
-			System.out.println("inside if from master branch");
+			System.out.println("changed in sub branch here aslo");
 		}
 		System.out.println("added code in master after sub branch chekcout");
+		System.out.println("now adding in sub branch");
+		
 
 }
 	
